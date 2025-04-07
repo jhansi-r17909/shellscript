@@ -1,3 +1,4 @@
 Hello 
 this is for loop
 and this is for practicing
+For loop is used in many cases
