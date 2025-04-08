@@ -1,0 +1,2 @@
+Hello
+This is to show how meging works in git
